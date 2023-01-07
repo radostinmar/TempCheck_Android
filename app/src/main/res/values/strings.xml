@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TempCheck</string>
+    <string name="temperature">Temperature: %.2f°C</string>
+    <string name="max_temperature">Max temperature: %.2f°C</string>
+    <string name="min_temperature">Min temperature: %.2f°C</string>
+    <string name="avg_temperature">Average temperature: %.2f°C</string>
+    <string name="start_date">Start date: %s</string>
+    <string name="end_date">End date: %s</string>
+    <string name="humidity">Humidity: %.1f%%</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="week">Week</string>
+    <string name="year">Year</string>
+    <string name="title_activity_login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_continue">Continue</string>
+    <string name="register_now">Don\'t have an account? Register now!</string>
+    <string name="alerts">Alerts</string>
+    <string name="alert_text">When temperature is %1$s %2$s.</string>
+    <string name="over">over</string>
+    <string name="under">under</string>
+    <string name="delete">Delete</string>
+    <string name="temperature_format">%.2f°C</string>
+    <string name="humidity_format">%.1f%%</string>
+    <string name="create_alert">Create alert</string>
+    <string name="notification_channel_alerts">Alerts</string>
+    <string name="target_temperature">Target temperature</string>
+    <string name="create">Create</string>
+    <string name="skeleton">Loading</string>
+    <string name="register">Register</string>
+</resources>
