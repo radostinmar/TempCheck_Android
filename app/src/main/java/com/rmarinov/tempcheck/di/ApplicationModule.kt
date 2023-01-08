@@ -69,5 +69,5 @@ object ApplicationModule {
         return applicationContext.dataStore
     }
 
-    private const val BASE_URL = "10.0.2.2"
+    private const val BASE_URL = "http://10.0.2.2"
 }
